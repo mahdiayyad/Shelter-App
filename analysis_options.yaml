@@ -1,0 +1,23 @@
+include: package:lints/recommended.yaml
+# analyzer:
+#   strong-mode:
+#     implicit-casts: true
+#   # exclude:
+#   #   - "lib/app/routes/AppRouter.gr.dart"
+#   errors:
+#     undefined_prefixed_name: ignore
+
+linter:
+  rules:
+    file_names: false
+    package_api_docs: true
+    # require_trailing_commas: false
+    avoid_print: true
+    use_setters_to_change_properties: false
+    constant_identifier_names: false
+    avoid_classes_with_only_static_members: false
+    avoid_positional_boolean_parameters: false
+    avoid_function_literals_in_foreach_calls: false
+    prefer_if_elements_to_conditional_expressions: false
+    unsafe_html: false
+    unnecessary_string_escapes: false

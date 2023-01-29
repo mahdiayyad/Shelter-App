@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826597266748",
+    "project_id": "flutter-with-firebase-31662",
+    "storage_bucket": "flutter-with-firebase-31662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826597266748:android:47fa698600273f27c97a39",
+        "android_client_info": {
+          "package_name": "com.samer.shelter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826597266748-rc9g9oipqc1jh616ba4rkkq33j3oj1ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptAyMBUM8jmMcSIFpHWGLZ5QhFQ4ERQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826597266748-rc9g9oipqc1jh616ba4rkkq33j3oj1ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
